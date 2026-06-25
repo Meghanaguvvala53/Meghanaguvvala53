@@ -7,7 +7,7 @@
 
 ---
 
-### 👋 hey, I'm Meghana
+### 👋 Hey, I'm Meghana
 
 Five years in finance, split between Goldman Sachs (FP&A, forecasting, executive reporting) and Morgan Stanley (investment banking, wealth management, KPI dashboards). I spend most of my time turning messy data into financial models people actually trust, and automating the reports nobody wants to run by hand.
 
@@ -42,7 +42,7 @@ On GitHub you'll find Python tools for financial analysis, forecasting models, a
 | [dcf-valuation-model](#) | DCF engine with sensitivity tables and scenario analysis | Python, NumPy, Excel |
 | [kpi-reporting-pipeline](#) | Automated KPI tracking with MoM trends and weekly reports | SQL, DuckDB, Python |
 | [revenue-forecasting-ml](#) | Time-series forecasting comparing Prophet vs ARIMA | Python, Prophet, sklearn |
-| [excel-reporting-automation](#) | Replaces manual Excel workflows with a scheduled Python pipeline | Python, OpenPyXL |
+| [excel-reporting-automation](https://github.com/Meghanaguvvala53/Excel-Reporting-Automation) | Replaces manual Excel workflows with a scheduled Python pipeline | Python, OpenPyXL |
 | [portfolio-risk-analyzer](#) | Sharpe ratio, VaR, Monte Carlo simulation on portfolio returns | Python, NumPy |
 
 ---
