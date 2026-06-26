@@ -32,20 +32,6 @@ On GitHub you'll find Python tools for financial analysis, forecasting models, a
 
 ---
 
-### 📂 what's on here
-
-<!-- replace # links with real repo URLs once projects are live -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| [financial-planning-dashboard](#) | Budget vs actuals, variance analysis, rolling 12-month forecast | Python, Plotly, SQL |
-| [dcf-valuation-model](#) | DCF engine with sensitivity tables and scenario analysis | Python, NumPy, Excel |
-| [kpi-reporting-pipeline](#) | Automated KPI tracking with MoM trends and weekly reports | SQL, DuckDB, Python |
-| [revenue-forecasting-ml](#) | Time-series forecasting comparing Prophet vs ARIMA | Python, Prophet, sklearn |
-| [excel-reporting-automation](https://github.com/Meghanaguvvala53/Excel-Reporting-Automation) | Replaces manual Excel workflows with a scheduled Python pipeline | Python, OpenPyXL |
-| [portfolio-risk-analyzer](#) | Sharpe ratio, VaR, Monte Carlo simulation on portfolio returns | Python, NumPy |
-
----
 
 ### 📬 connect
 
